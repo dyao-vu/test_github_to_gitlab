@@ -1,0 +1,6 @@
+[submodule "test_submodule_1"]
+	path = test_submodule_1
+	url = https://github.com/dyao-vu/test_submodule_1
+[submodule "test_submodule_2"]
+	path = test_submodule_2
+	url = https://github.com/dyao-vu/test_submodule_2
